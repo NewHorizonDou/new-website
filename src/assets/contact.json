@@ -1,0 +1,24 @@
+{
+  "en": {
+    "title": "Contact Us",
+    "p": "For more details",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Submit",
+    "success": "Your Message Was Sent Successfully",
+    "error": "Something Went Wrong"
+  },
+  "he": {
+    "title": "דברו איתנו",
+    "p": "לפרטים נוספים והזמנות",
+    "name": "שם",
+    "email": "דוא״ל",
+    "phone": "טלפון",
+    "message": "הודעה",
+    "send": "שליחה",
+    "success": "קיבלנו את ההודעה שלך",
+    "error": "תקלה אירעה"
+  }
+}

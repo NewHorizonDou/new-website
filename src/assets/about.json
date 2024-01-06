@@ -1,0 +1,28 @@
+{
+  "en": {
+    "title": "About Us",
+    "duo": "New Horizon Duo",
+    "bio": "Duo of Accordion Virtuosos. Both present a captivating musical journey of sounds, scents, and styles - a rich repertoire of pieces symbolizing milestones from around the world. Starting with Tango (in the style of Piazzolla), Brazilian Samba, through French music (Edith Piaf), and famous classical compositions, all the way to well-known and beloved Swing pieces.",
+    "jacky": {
+      "name": "Jacky Sevilya",
+      "bio": "A world-renowned virtuoso player and composer, extraordinary expressive abilities and a rich record of experience performing worldwide. His playing serves as inspiration to musicians in Israel and around the world."
+    },
+    "ilan": {
+      "name": "Ilan Ziv",
+      "bio": "A young and captivating musician - discovered as a \"prodigy\" and quickly began playing as a soloist in various ensembles. A graduate of the Jerusalem Academy of Music, specializing in world music. Considered a leader of the young generation of musicians."
+    }
+  },
+  "he": {
+    "title": "הכירו אותנו",
+    "duo": "New Horizon Duo",
+    "bio": "צמד נגני אקורדיון וירטואוזים. השניים מציגים בנגינתם מסע מוזיקלי סוחף של צלילים, ריחות וסגנונות - רפרטואר עשיר לקטעים המסמלים אבני דרך מרחבי העולם, החל מטנגו (בסגנון פיאצולה), סמבה ברזילאית דרך מוסיקה צרפתית (מאדית פיאף ועד לקטעי המוזט המפורסמים) ועד לקטעי סווינג מוכרים ואהובים מפורסמים.",
+    "jacky": {
+      "name": "ג׳קי סביליה",
+      "bio": "נגן וירטואוז ומלחין בעל שם עולמי, בעל יכולת הבעה יוצאת דופן ובעל רקורד עתיר ניסיון של הופעות ברחבי העולם נגינתו מהווה השראה לטובי הנגנים בישראל ובעולם."
+    },
+    "ilan": {
+      "name": "אילן זיו",
+      "bio": "נגן צעיר וסוחף - התגלה כ\"ילד פלא\" ובמהרה החל לנגן כסולן בהרכבים שונים. בוגר האקדמיה למוסיקה בירושלים ומתמחה במוסיקת עולם. נחשב למוביל דור הנגנים הצעירים."
+    }
+  }
+}

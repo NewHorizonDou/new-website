@@ -1,0 +1,8 @@
+[
+  { "name": "Home", "hename": "ראשי", "url": "/" },
+  { "name": "About", "hename": "אודות", "url": "#about" },
+  { "name": "Video", "hename": "וידאו", "url": "#videos" },
+  { "name": "Reviews", "hename": "ביקורות", "url": "#reviews" },
+  { "name": "Shows", "hename": "הופעות", "url": "#shows" },
+  { "name": "Contact", "hename": "צור קשר", "url": "#contact" }
+]
