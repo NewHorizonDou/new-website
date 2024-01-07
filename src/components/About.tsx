@@ -15,7 +15,7 @@ export const About = () => {
 
         {/* jacky */}
         <div className='py-10 grid grid-cols-1 md:grid-cols-2'>
-          <img className={` w-3/4 mx-auto`} alt='jacky sevilya' src={"/jack.png"} width={1861} height={2982} />
+          <img className={` w-3/4 mx-auto`} alt='jacky sevilya' src={"/jack.webp"} width={1861} height={2982} />
           <div className='h-full flex flex-col justify-center px-3'>
             <h2 className='font-medium py-5'>{about[language].jacky.name}</h2>
             <p className='w-3/4 mx-auto'>{about[language].jacky.bio}</p>
@@ -31,7 +31,7 @@ export const About = () => {
           <img
             className={`order-1 md:order-2 w-3/4 mx-auto`}
             alt='ilan ziv'
-            src={"/ilan.png"}
+            src={"/ilan.webp"}
             width={1861}
             height={2982}
           />

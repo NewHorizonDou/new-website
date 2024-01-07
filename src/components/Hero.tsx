@@ -36,10 +36,10 @@ const Hero = () => {
               language === "en" ? "lg:translate-x-1/2" : "lg:translate-x-[-50%]"
             }`}
             alt='duo image'
-            src={"/mainD.png"}
+            src={"/mainD.webp"}
           />
         ) : (
-          <img className='mx-auto absolute bottom-0  w-full' alt='duo image' src={"/main.png"} />
+          <img className='mx-auto absolute bottom-0  w-full' alt='duo image' src={"/main.webp"} />
         )}
       </div>
       <div className='h-1/3 flex flex-col justify-around items-center  text-[#0c0c0c]'>
