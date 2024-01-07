@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className='sticky top-0 bg-white z-50'>
       <div>
         <Menu onClick={() => setIsOpen(!isOpen)} className='xl:hidden absolute top-3 mx-5' size={32} />
-        <LangSwitcher className='absolute top-4 mx-5' />
+        <LangSwitcher className='absolute top-4 mx-5 xl:hidden' />
       </div>
       <div
         id='desktop-nav'
