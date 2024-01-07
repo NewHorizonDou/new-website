@@ -38,10 +38,10 @@ const Contact = () => {
         <form ref={formRef} onSubmit={handleSubmit} name='contact' className='flex flex-col lg:w-2/5 mx-auto gap-5'>
           {/*this is for netlify bot to detect the form */}
           <input type='hidden' name='form-name' value='contact' />
-          <input required placeholder={contact[language].name} className={inputStyle} type='text' />
-          <input placeholder={contact[language].email} className={inputStyle} type='email' />
-          <input placeholder={contact[language].phone} className={inputStyle} type='text' />
-          <textarea required placeholder={contact[language].message} className={inputStyle} />
+          <input required name='name' placeholder={contact[language].name} className={inputStyle} type='text' />
+          <input name='email' placeholder={contact[language].email} className={inputStyle} type='email' />
+          <input name='phone' placeholder={contact[language].phone} className={inputStyle} type='text' />
+          <textarea name='message' required placeholder={contact[language].message} className={inputStyle} />
           <button
             className='w-full
             bg-[#0c0c0c] text-white py-1'
