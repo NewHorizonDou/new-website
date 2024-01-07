@@ -6,11 +6,14 @@ import toast from "react-hot-toast";
 const inputStyle = "border-2 border-[#0c0c0c] py-1 px-3 outline-[#0c0c0c]";
 const Contact = () => {
   const { language } = useLanguage();
-  const formRef = useRef(null);
+  const formRef = useRef<HTMLFormElement | null>(null);
 
   const handleSubmit = (event: FormEvent) => {
     event.preventDefault();
     const form = formRef.current;
+    if (!form) {
+      return;
+    }
     const data = new FormData(form);
     fetch("/", {
       method: "POST",
