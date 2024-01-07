@@ -1,4 +1,4 @@
-import { Swiper, SwiperSlide } from "swiper/react";
+import { Swiper, SwiperClass, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
@@ -16,7 +16,7 @@ interface VideosProps {}
 
 const Videos: React.FC<VideosProps> = () => {
   const { language } = useLanguage();
-  const [swiperInstance, setSwiperInstance] = useState<any | null>(null);
+  const [swiperInstance, setSwiperInstance] = useState<SwiperClass | null>(null);
   const [currentVideo, SetCurrentVideo] = useState<Video>(videos.videos[0]);
 
   const ChangeCurrentVideo = (video: Video) => {

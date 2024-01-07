@@ -1,4 +1,4 @@
-import { Swiper, SwiperSlide } from "swiper/react";
+import { Swiper, SwiperClass, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
@@ -9,11 +9,12 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useEffect, useState } from "react";
 
 const Reviews = () => {
-  const [swiperInstance, setSwiperInstance] = useState<any | null>(null);
+  const [swiperInstance] = useState<SwiperClass | null>(null);
 
   const { language } = useLanguage();
 
   useEffect(() => {}, [language]);
+
   const generateKey = () => {
     const key = (Math.random() * 10000).toFixed().toString();
     return key;
