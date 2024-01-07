@@ -37,7 +37,7 @@ const Reviews = () => {
         <h1 className='text-2xl font-medium py-10'>{reviews[language].title}</h1>
         <div className='flex flex-row items-center z-1' id='swiper-wrapper'>
           <button className={language === "he" ? "order-1" : ""} onClick={handlePrevSlide}>
-            <ChevronLeft className='reviewsPrevButton' size={60} strokeWidth={1} />
+            <ChevronLeft aria-label='previuos-review' className='reviewsPrevButton' size={60} strokeWidth={1} />
           </button>
           <Swiper
             dir={language === "en" ? "ltr" : "rtl"}
@@ -61,7 +61,7 @@ const Reviews = () => {
             ))}
           </Swiper>
           <button className={language === "he" ? "order-[-1]" : ""} onClick={handleNextSlide}>
-            <ChevronRight className='reviewsNextButton' size={60} strokeWidth={1} />
+            <ChevronRight aria-label='next-review' className='reviewsNextButton' size={60} strokeWidth={1} />
           </button>
         </div>
       </div>

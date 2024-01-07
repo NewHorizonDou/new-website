@@ -8,13 +8,13 @@ export const Footer = () => {
         <p>אילן - 0544500529</p>
         <p>ג&#39;קי - 0522585101</p>
         <div className='flex flex-row items-center justify-center gap-3 mt-5'>
-          <a href={"https://www.facebook.com/NewHorizonDuo"}>
+          <a aria-label='facebook' href={"https://www.facebook.com/NewHorizonDuo"}>
             <Facebook size={32} strokeWidth={1} absoluteStrokeWidth />
           </a>
-          <a href={"https://www.youtube.com/@newhorizonduo"}>
+          <a aria-label='youtube' href={"https://www.youtube.com/@newhorizonduo"}>
             <Youtube size={32} strokeWidth={1} absoluteStrokeWidth />
           </a>
-          <a href={"https://www.instagram.com/accordion.duo/"}>
+          <a aria-label='instagram' href={"https://www.instagram.com/accordion.duo/"}>
             <Instagram size={32} strokeWidth={1} absoluteStrokeWidth />
           </a>
         </div>

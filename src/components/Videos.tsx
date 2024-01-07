@@ -55,7 +55,7 @@ const Videos: React.FC<VideosProps> = () => {
 
         <div className='flex flex-row items-center z-1' id='swiper-wrapper'>
           <button className={language === "he" ? "order-1" : ""} onClick={handlePrevSlide}>
-            <ChevronLeft className='prevButton' size={60} strokeWidth={1} />
+            <ChevronLeft aria-label='previuos-video' className='prevButton' size={60} strokeWidth={1} />
           </button>
           <Swiper
             dir={language === "en" ? "ltr" : "rtl"}
@@ -90,7 +90,7 @@ const Videos: React.FC<VideosProps> = () => {
             ))}
           </Swiper>
           <button className={language === "he" ? "order-[-1]" : ""} onClick={handleNextSlide}>
-            <ChevronRight className='nextButton' size={60} strokeWidth={1} />
+            <ChevronRight aria-label='next-video' className='nextButton' size={60} strokeWidth={1} />
           </button>
         </div>
       </div>
