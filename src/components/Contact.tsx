@@ -35,7 +35,7 @@ const Contact = () => {
       <div className='max-w-screen-lg mx-auto text-center flex flex-col py-20'>
         <h1 className='text-2xl font-medium mb-5'>{contact[language].title}</h1>
         <p className='mb-5'>{contact[language].p}</p>
-        <form ref={formRef} onSubmit={handleSubmit} name='contact' className='flex flex-col w-2/5 mx-auto gap-5'>
+        <form ref={formRef} onSubmit={handleSubmit} name='contact' className='flex flex-col lg:w-2/5 mx-auto gap-5'>
           {/*this is for netlify bot to detect the form */}
           <input type='hidden' name='form-name' value='contact' />
           <input required placeholder={contact[language].name} className={inputStyle} type='text' />
