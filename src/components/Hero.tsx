@@ -27,7 +27,7 @@ const Hero = () => {
   }, []); // Empty dependency array ensures that the effect runs only once after component mount
 
   return (
-    <section className='w-full h-screen'>
+    <section style={windowWidth < 767 ? { height: "calc(100vh - 56px)" } : { height: "100vh" }} className='w-full'>
       <div className='h-1/3'></div>
       <div className='bg-[#0c0c0c] h-1/3 relative'>
         {windowWidth > 1000 ? (
