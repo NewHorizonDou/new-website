@@ -27,7 +27,9 @@ export const ShowCard = ({ show }: { show: show }) => {
       </p>
       <button
         disabled={show.link ? false : true}
-        className={`  text-sm text-white w-full py-2 my-5 ${!show.link ? "bg-[#0c0c0c65]" : "bg-[#0c0c0c]"}`}>
+        className={`text-sm text-white w-full max-w-[125px] py-2 my-5 ${
+          !show.link ? "bg-[#0c0c0c65]" : "bg-[#0c0c0c]"
+        }`}>
         {show.link ? <a href={show.link}>{buttonText} </a> : noLinkButtonText}
       </button>
     </div>

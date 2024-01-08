@@ -28,7 +28,7 @@ const Hero = () => {
 
   return (
     <section className='w-full h-screen'>
-      <div className='h-1/4'></div>
+      <div className='h-1/3'></div>
       <div className='bg-[#0c0c0c] h-1/3 relative'>
         {windowWidth > 1000 ? (
           <img
@@ -42,9 +42,9 @@ const Hero = () => {
           <img className='mx-auto absolute bottom-0  w-full' alt='duo image' src={"/main.webp"} />
         )}
       </div>
-      <div className='h-1/3 flex flex-col justify-around items-center  text-[#0c0c0c]'>
+      <div className='h-1/3 flex flex-col justify-around items-center p-5  text-[#0c0c0c]'>
         <p className='text-2xl'>{secondTitle}</p>
-        <h1 className='text-4xl md:text-7xl lg:text-8xl xl:text-9xl font-bold tracking-widest'>New Horizon</h1>
+        <h1 className='text-7xl md:text-7xl lg:text-8xl xl:text-9xl font-bold tracking-widest'>New Horizon</h1>
         <a href={"#about"}>
           <ChevronDown size={48} />
         </a>
