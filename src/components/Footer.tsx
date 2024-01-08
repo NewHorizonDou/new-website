@@ -1,5 +1,5 @@
 import { Facebook, Instagram, Youtube } from "lucide-react";
-import footer from "../assets/Footer.json";
+import footer from "../assets/footer.json";
 import { useLanguage } from "../langContext";
 
 export const Footer = () => {
