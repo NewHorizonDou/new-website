@@ -4,23 +4,23 @@
 
     "shows": [
       {
-        "title": "Camari Theatre",
-        "location": "Camari Tel-Aviv",
-        "date": "26/04/24",
+        "title": "Camari",
+        "location": "Camari Theatre",
+        "date": "26/07/24",
         "time": "21:00",
         "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       },
       {
-        "title": "Latrun Concert",
-        "location": "יד לשריון-לטרון",
-        "date": "04/05/24",
-        "time": "12:30",
-        "link": "https://pearl-music.co.il/events/%d7%91%d7%99%d7%9f-%d7%91%d7%a8%d7%95%d7%93%d7%95%d7%95%d7%99-%d7%9c%d7%a9%d7%90%d7%a0%d7%96-%d7%90%d7%9c%d7%99%d7%96%d7%94-2/"
+        "title": "Camari",
+        "location": "Camari Theatre",
+        "date": "20/08/24",
+        "time": "20:30",
+        "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       },
       {
         "title": "Camari",
         "location": "Camari Theatre",
-        "date": "30/05/24",
+        "date": "20/09/24",
         "time": "21:00",
         "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       }
@@ -33,21 +33,21 @@
       {
         "title": "תאטרון הקאמרי",
         "location": "קאמרי תל -אביב",
-        "date": "26/04/24",
+        "date": "26/07/24",
         "time": "21:00",
         "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       },
       {
-        "title": "קונצרט יד לשריון",
-        "location": "יד לשריון-לטרון",
-        "date": "04/05/24",
-        "time": "12:30",
-        "link": "https://pearl-music.co.il/events/%d7%91%d7%99%d7%9f-%d7%91%d7%a8%d7%95%d7%93%d7%95%d7%95%d7%99-%d7%9c%d7%a9%d7%90%d7%a0%d7%96-%d7%90%d7%9c%d7%99%d7%96%d7%94-2/"
+        "title": "תאטרון הקאמרי",
+        "location": "קאמרי תל -אביב",
+        "date": "20/08/24",
+        "time": "20:30",
+        "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       },
       {
         "title": "תאטרון הקאמרי",
         "location": "קאמרי תל -אביב",
-        "date": "30/05/24",
+        "date": "20/09/24",
         "time": "21:00",
         "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       }
