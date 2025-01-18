@@ -4,24 +4,24 @@
 
     "shows": [
       {
-        "title": "Beit Yad La Banim",
-        "location": "Haifa",
-        "date": "14/10/24",
-        "time": "20:00",
-      },
-      {
-        "title": "Camari",
-        "location": "Camari Theatre",
-        "date": "17/10/24",
+        "title": "Camari Theatre",
+        "location": "Tel Aviv",
+        "date": "23/01/25",
         "time": "21:00",
         "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       },
       {
-        "title": "Private Concert",
-        "location": "Herzelia",
-        "date": "30/10/24",
-        "time": "20:00",
+        "title": "Savion Foundation",
+        "location": "Kfar-Sava",
+        "date": "30/01/25",
+        "time": "20:00"
       },
+      {
+        "title": "Kiryat Gat library",
+        "location": "Kiryat Gat",
+        "date": "18/02/25",
+        "time": "20:00"
+      }
     ]
   },
   "he": {
@@ -29,24 +29,23 @@
 
     "shows": [
       {
-        "title": "בית יד לבנים",
-        "location": "חיפה",
-        "date": "14/10/24",
-        "time": "20:00",
-      },
-      {
         "title": "תאטרון הקאמרי",
         "location": "קאמרי תל -אביב",
-        "date": "17/10/24",
+        "date": "23/01/25",
         "time": "21:00",
         "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
       },
       {
-        "title": "קונצרט פרטי",
-        "location": "הרצליה",
-        "date": "30/10/24",
-        "time": "20:00",
-        "link": "https://www.cameri.co.il/%D7%94%D7%A6%D7%92%D7%95%D7%AA_%D7%94%D7%A7%D7%90%D7%9E%D7%A8%D7%99/560/%D7%91%D7%99%D7%9F_%D7%91%D7%A8%D7%95%D7%93%D7%95%D7%95%D7%99_%D7%9C%D7%A9%D7%90%D7%A0%D7%96-%D7%90%D7%9C%D7%99%D7%96%D7%94"
+        "title": "עמותת סביון",
+        "location": "כפר סבא",
+        "date": "30/01/25",
+        "time": "20:00"
+      },
+      {
+        "title": "ספריית קריית גת",
+        "location": "קריית גת",
+        "date": "18/02/25",
+        "time": "20:00"
       }
     ]
   }
